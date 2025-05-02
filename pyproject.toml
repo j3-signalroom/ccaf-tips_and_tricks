@@ -1,0 +1,7 @@
+[project]
+name = "j3-ccaf-tips-and-tricks"
+version = "0.01.00.000"
+description = "J3's CCAF (Confluent Cloud of Apache Flink) Tips and Tricks"
+readme = "README.md"
+requires-python = ">=3.11.9"
+dependencies = []
