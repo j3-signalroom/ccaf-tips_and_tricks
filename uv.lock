@@ -1,0 +1,7 @@
+version = 1
+requires-python = ">=3.11.9"
+
+[[package]]
+name = "ccaf-tips-and-tricks"
+version = "0.1.0.0"
+source = { virtual = "." }
