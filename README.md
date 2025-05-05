@@ -1,1 +1,1 @@
-# J3's CCAF (Confluent Cloud of Apache Flink) Tips and Tricks
+# CCAF (Confluent Cloud of Apache Flink) Tips and Tricks
